@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Week-9-Redux-Todo-List-App/static/js/main.895c6988.chunk.js",
+    "main.js.map": "/Week-9-Redux-Todo-List-App/static/js/main.895c6988.chunk.js.map",
+    "runtime-main.js": "/Week-9-Redux-Todo-List-App/static/js/runtime-main.d5bec200.js",
+    "runtime-main.js.map": "/Week-9-Redux-Todo-List-App/static/js/runtime-main.d5bec200.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Week-9-Redux-Todo-List-App/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f2d596e4.chunk.js": "/Week-9-Redux-Todo-List-App/static/js/2.f2d596e4.chunk.js",
+    "static/js/2.f2d596e4.chunk.js.map": "/Week-9-Redux-Todo-List-App/static/js/2.f2d596e4.chunk.js.map",
+    "index.html": "/Week-9-Redux-Todo-List-App/index.html",
+    "precache-manifest.6f9e605931c58ffe396af0fc8ecd883f.js": "/Week-9-Redux-Todo-List-App/precache-manifest.6f9e605931c58ffe396af0fc8ecd883f.js",
+    "service-worker.js": "/Week-9-Redux-Todo-List-App/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Week-9-Redux-Todo-List-App/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.f2d596e4.chunk.js.LICENSE.txt": "/Week-9-Redux-Todo-List-App/static/js/2.f2d596e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5bec200.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f2d596e4.chunk.js",
+    "static/js/main.895c6988.chunk.js"
+  ]
+}
